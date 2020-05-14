@@ -1,0 +1,4 @@
+#Thu May 14 15:23:42 CST 2020
+base.0=D\:\\project\\local_auth\\example\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
